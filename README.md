@@ -11,11 +11,11 @@ Analysis of the project is done in few different steps
 **1. Analyzing the Data provided::**
  In this step we Filtered the Data and formated it in order to get right results and proper visualization. 
  
- **2. Errors and Debugging::**
+**2. Errors and Debugging::**
  In this step we sorted all the erroes occured and debugged it for correct visulization.
 
 **3. Charting the data::**
-After applying all the filters to the data and sorting it , we plotted some charts to make a visual representation of what is happening with the campaign and covered all the success and failures . We also created new data sheets where it is easy to look up the required set of data and made it easier to analyze based on **Outcomes Based on Launch Date** and **Outcomes Based on Goals**
+ After applying all the filters to the data and sorting it , we plotted some charts to make a visual representation of what is happening with the campaign and covered all the success and failures. We also created new data sheets where it is easy to look up the required set of data and made it easier to analyze the Outcomes.
 
 ## Challanges: 
 The main challange was to filter the right set of data which covered all the campaigns. Then some challanges were faced while debugging all the errors. To select right values for pivot tables and plot the right chart which gives proper visualization of the data set was another challange faced 
@@ -23,7 +23,16 @@ The main challange was to filter the right set of data which covered all the cam
 # Results:
 We have pivot tables for all the outcomes based on the launch date and Theater outcomes based on the launch date.
 
+![](https://github.com/HIRDEYJOT/-kickstarter-analysis/blob/master/RESOURCES/Theater_Outcomes_vs_Launch.png)
+
+
+
 We have pivot table and chart for Outcomes based on goals.
 
+![](https://github.com/HIRDEYJOT/-kickstarter-analysis/blob/master/RESOURCES/Outcomes_vs_Goals.png.png)
+
+
+
+## Limitations::
 Some of the Limitations are we lack the data of the campaigns which are still going live. 
-We can also make new tables and chart for the remaining outcomes so that she can choose the campaign according to time and cause
+We can also need to make new tables and chart for the remaining outcomes so that she can choose the campaign according to time and cause. 
