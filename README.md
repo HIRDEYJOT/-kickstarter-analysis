@@ -22,12 +22,15 @@ The main challange was to filter the right set of data which covered all the cam
 
 # Results:
 We have pivot tables for all the outcomes based on the launch date and Theater outcomes based on the launch date.
+In the chart We can see that the middle of the year has the most successful campaigns.
+
 
 ![](https://github.com/HIRDEYJOT/-kickstarter-analysis/blob/master/RESOURCES/Theater_Outcomes_vs_Launch.png)
 
 
 
-We have pivot table and chart for Outcomes based on goals.
+
+We have pivot table and chart for Outcomes based on goals. In this chart we can see that higher the goal more fail campaigns are encountered. 
 
 ![](https://github.com/HIRDEYJOT/-kickstarter-analysis/blob/master/RESOURCES/Outcomes_vs_Goals.png.png)
 
