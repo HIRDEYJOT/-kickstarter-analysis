@@ -32,6 +32,9 @@ We have pivot table and chart for Outcomes based on goals.
 ![](https://github.com/HIRDEYJOT/-kickstarter-analysis/blob/master/RESOURCES/Outcomes_vs_Goals.png.png)
 
 
+With the help of pivot tables and charts it is easy to visualize the data and analyse the successes and thye failiurs.
+We can also sort the data according to our specification and get easy quick results of tables and charts.
+
 
 ## Limitations::
 Some of the Limitations are we lack the data of the campaigns which are still going live. 
